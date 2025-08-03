@@ -38,7 +38,7 @@ flutter run
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc6bbe87-a31d-4aa2-ab31-326df0385d32" alt="Task Marking" width="220" height="440" />
-  <img src="https://github.com/user-attachments/assets/5f26d6eb-9bf2-4bc2-a6c0-e76d454320a8" alt="Add Task Screen" width="220" height="440" />
-  <img src="https://github.com/user-attachments/assets/f945f672-2bd1-4b2d-bae7-5310b14c5b1a" alt="Edit/Delete Task" width="220" height="440" />
- </p>
+  <img src="https://github.com/user-attachments/assets/bc6bbe87-a31d-4aa2-ab31-326df0385d32" alt="Add-Edit-Delete" width="220" height="440" />
+  <img src="https://github.com/user-attachments/assets/5f26d6eb-9bf2-4bc2-a6c0-e76d454320a8" alt="Date-Picker" width="220" height="440" />
+  <img src="https://github.com/user-attachments/assets/f945f672-2bd1-4b2d-bae7-5310b14c5b1a" alt="Dark-Mode" width="220" height="440" />
+</p>
