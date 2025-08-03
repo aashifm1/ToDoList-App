@@ -38,7 +38,8 @@ flutter run
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc6bbe87-a31d-4aa2-ab31-326df0385d32" alt="Add-Edit-Delete" width="220" height="440" />
-  <img src="https://github.com/user-attachments/assets/5f26d6eb-9bf2-4bc2-a6c0-e76d454320a8" alt="Date-Picker" width="220" height="440" />
-  <img src="https://github.com/user-attachments/assets/f945f672-2bd1-4b2d-bae7-5310b14c5b1a" alt="Dark-Mode" width="220" height="440" />
+  <img src="https://github.com/user-attachments/assets/a07ec4ba-d627-4350-bfef-fb8802a792b2" alt="Add Edit Delete" width="220" height="440" />
+  <img src="https://github.com/user-attachments/assets/65980b3e-67d3-4626-b655-95f1574e601c" alt="Date Picking" width="220" height="440" />
+   <img src="https://github.com/user-attachments/assets/fe71638e-6306-48ff-bae2-237d4ba3bd54" alt="Dark Mode" width="220" height="440" />
 </p>
+
